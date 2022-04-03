@@ -1,2 +1,2 @@
 # git-demo
-This repo is for git and github connection class demo. 
+This repo is for git and github connection in-class demo. 
